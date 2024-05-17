@@ -7856,16 +7856,6 @@ Tabs.profile:AddParagraph({
         Title = "Owner",
         Content = "YT: Nghiarobloxtt"
     })
-  
-Tabs.Misc:AddButton({
-	Title = "Discord Owner",
-	Description = "Discord Chính Thức",
-	Callback = function()
- setclipboard("https://discord.gg/BxjqHMMsTb")
-  DiscordLib:Notification("Đã Sao Chép Link Discord" , 10 ,11816162894 )
-	end
-
-})  
 --------------------------------------------------------------------------------------------------------------------------------------------
 --Hop
 
